@@ -1,18 +1,13 @@
-package test.Proekt;
+package Project13.TestZenoviy;
 
-import main.Proekt.FibonacciSequence;
-import main.Proekt.LimitException;
-import main.Proekt.NegativeIntegerException;
-import main.module8.MusicInstrument;
+import Project13.Zenoviy.FibonacciSequence;
+import Project13.Zenoviy.NegativeIntegerException;
 import org.junit.Assert;
-import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
 import java.util.ArrayList;
 import java.util.List;
-
-import static org.junit.Assert.*;
 
 /**
  * Created by Zenovii on 15.04.2016.

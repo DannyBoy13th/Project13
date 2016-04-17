@@ -1,5 +1,5 @@
+package Project13.Gabchak.src.main.java;
 import java.math.BigInteger;
-import java.util.ArrayList;
 
 /**
  * Created by coura on 10.04.2016.

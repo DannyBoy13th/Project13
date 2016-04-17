@@ -1,5 +1,6 @@
-import org.junit.Assert;
-import org.junit.Before;
+package Project13.Gabchak.src.test.java;
+
+import Project13.Gabchak.src.main.java.Factorial;
 import org.junit.BeforeClass;
 import org.junit.Test;
 

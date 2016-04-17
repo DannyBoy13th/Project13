@@ -1,7 +1,7 @@
-package main.Proekt;
+package Project13.Khrushev;
 
-public class NegativeIntegerException extends Exception {
-    int value;
+class NegativeIntegerException extends Exception {
+private int value;
 
     public NegativeIntegerException(int value) {
         this.value = value;

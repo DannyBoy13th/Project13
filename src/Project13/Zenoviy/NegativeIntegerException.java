@@ -1,7 +1,7 @@
-package goit.gojava2.javacore.project13;
+package Project13.Zenoviy;
 
-class NegativeIntegerException extends Exception {
-private int value;
+public class NegativeIntegerException extends Exception {
+    int value;
 
     public NegativeIntegerException(int value) {
         this.value = value;

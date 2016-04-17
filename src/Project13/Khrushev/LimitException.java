@@ -1,4 +1,4 @@
-package goit.gojava2.javacore.project13;
+package Project13.Khrushev;
 
 public class LimitException extends Exception{
     private int value;

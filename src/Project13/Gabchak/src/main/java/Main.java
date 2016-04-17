@@ -1,6 +1,4 @@
-import java.util.ArrayList;
-import java.util.Scanner;
-
+package Project13.Gabchak.src.main.java;
 /**
  * Created by coura on 10.04.2016.
  */

@@ -1,9 +1,10 @@
-import org.junit.Assert;
-import org.junit.Before;
+package Project13.Gabchak.src.test.java;
+
+import Project13.Gabchak.src.main.java.Validation;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 /**
  * Created by coura on 16.04.2016.

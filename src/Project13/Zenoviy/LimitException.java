@@ -1,4 +1,4 @@
-package main.Proekt;
+package Project13.Zenoviy;
 
 public class LimitException extends Exception{
     private int value;

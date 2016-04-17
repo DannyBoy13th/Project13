@@ -1,3 +1,4 @@
+package Project13.Gabchak.src.main.java;
 import java.util.ArrayList;
 
 /**
@@ -36,14 +37,14 @@ public class Fibonacci {
         if (maxNumber == 0) return 0;
         if (maxNumber == 1) return 1;
         int early = 1;
-        int previos = 1;
+        int previous = 1;
         int maxFibonacci = 0;
 
         for (int i = 1; i < maxNumber; i++) {
             if ((maxFibonacci + early) <= maxNumber) {
-                maxFibonacci = previos + early;
-                early = previos;
-                previos = maxFibonacci;
+                maxFibonacci = previous + early;
+                early = previous;
+                previous = maxFibonacci;
             } else break;
         }
 

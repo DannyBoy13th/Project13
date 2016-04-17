@@ -1,9 +1,9 @@
-package test.Proekt;
+package Project13.TestZenoviy;
 
-import main.Proekt.Factorial;
+import Project13.Zenoviy.Factorial;
 
-import main.Proekt.LimitException;
-import main.Proekt.NegativeIntegerException;
+import Project13.Zenoviy.LimitException;
+import Project13.Zenoviy.NegativeIntegerException;
 import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;

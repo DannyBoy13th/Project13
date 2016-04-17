@@ -1,4 +1,4 @@
-package goit.gojava2.javacore.project13;
+package Project13.Khrushev;
 
 import java.util.ArrayList;
 import java.util.List;
