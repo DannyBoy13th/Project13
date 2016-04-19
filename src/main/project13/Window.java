@@ -99,11 +99,11 @@ public class Window extends JFrame {
             }
         }
 
-        private String results(String message) {
+        private void results(String message) {
             String result = "Error";
             JOptionPane.showMessageDialog(dialogJPanel, message, result, JOptionPane
                     .DEFAULT_OPTION);
-            return message;
+
         }
 
         private void outputResult(int number) throws NegativeIntegerException, UpperLimitException {
