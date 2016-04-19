@@ -20,7 +20,7 @@ public class Window extends JFrame {
         window.seqButton();
     }
 
-    private Window() {
+    public Window() {
 
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
