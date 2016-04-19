@@ -1,4 +1,5 @@
-package Project13.Zenoviy;
+package main.project13;
+
 
 public class NegativeIntegerException extends Exception {
     int value;
